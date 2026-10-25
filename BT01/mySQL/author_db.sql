@@ -1,0 +1,1 @@
+CREATE SCHEMA author_db;
